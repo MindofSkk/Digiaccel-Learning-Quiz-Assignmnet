@@ -1,0 +1,17 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid black;
+    height: 50px;
+    background-color: black;
+    margin-top: 1px;
+    padding-top: 13px;
+    color: aqua;
+
+}
+
+.link{
+    text-decoration: none;
+    color: aqua;
+    font-size: 30px;
+}
