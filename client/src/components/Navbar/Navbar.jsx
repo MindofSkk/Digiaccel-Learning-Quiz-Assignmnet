@@ -8,9 +8,9 @@ export const Navbar = () => {
       <Link to="/" className={styles.link}>
         Quiz
       </Link>
-      <Link to="/user" className={styles.link}>
+      {/* <Link to="/user" className={styles.link}>
         User
-      </Link>
+      </Link> */}
       <Link to="/admin" className={styles.link}>
         Admin
       </Link>
